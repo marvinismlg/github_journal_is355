@@ -1,0 +1,1 @@
+If PowerShell returns a "Record not found" error, it means the website's hosting provider has not deployed IPv6 infrastructure for that domain yet. They are relying entirely on legacy IPv4 networking, which is still incredibly common.
