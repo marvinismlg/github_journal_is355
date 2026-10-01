@@ -1,13 +1,7 @@
-# Cyber Security and Networks IS35501
-## Cybersecurity IS 355 Github Journal Assignment Hyperlinks
+# Cybersecurity and Networks — IS35501
 
-### [Tutorial 1](https://github.com/marvinismlg/github_journal_is355/tree/main/tutorial1/images)
+- [Tutorial 1](tutorial1/)
+- [Tutorial 2](tutorial2/)
+- [Tutorial 3](tutorial3/)
 
-### [Tutorial 2](https://github.com/marvinismlg/github_journal_is355/tree/main/tutorial2)
-
-## Images 
-
-![Project Screenshot](tutorial1/images/week1-task1.png)
-
-
-
+![Tutorial 1 screenshot](tutorial1/images/week1-task1.png)
